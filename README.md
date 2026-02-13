@@ -4,13 +4,6 @@
 
 <h1 align="center">🎯 AdminHunter Elite Pro v4.0 (Enhanced)</h1>
 
-
-<p align="center">
-  <img src="AdminHunter.png" width="650">
-</p>
-
-<h1 align="center">🎯 AdminHunter Elite Pro v4.0 (Enhanced)</h1>
-
 **AdminHunter Elite Pro** is a professional-grade reconnaissance framework...
 
 
