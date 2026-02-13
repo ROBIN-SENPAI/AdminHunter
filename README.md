@@ -1,4 +1,18 @@
-# 🎯 AdminHunter Elite Pro v4.0 (Enhanced)
+<p align="center">
+  <img src="AdminHunter.png" width="650">
+</p>
+
+<h1 align="center">🎯 AdminHunter Elite Pro v4.0 (Enhanced)</h1>
+
+
+<p align="center">
+  <img src="AdminHunter.png" width="650">
+</p>
+
+<h1 align="center">🎯 AdminHunter Elite Pro v4.0 (Enhanced)</h1>
+
+**AdminHunter Elite Pro** is a professional-grade reconnaissance framework...
+
 
 **AdminHunter Elite Pro** is a professional-grade reconnaissance framework designed for identifying administrative panels and sensitive file exposures. This enhanced version features modular architecture, intelligent detection logic, and advanced WAF evasion techniques.
 
@@ -53,4 +67,5 @@ python3 main.py --target example.com --threads 50 --output results.json
 
 ---
 *Disclaimer: This tool is strictly for educational purposes and authorized security assessments. Unauthorized use against systems without prior consent is illegal.*
-https://raw.githubusercontent.com/ROBIN-SENPAI/AdminHunter/main/AdminHunter.png
+
+
