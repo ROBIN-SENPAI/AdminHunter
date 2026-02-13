@@ -56,7 +56,6 @@ python3 main.py --target example.com --threads 50 --output results.json
 ## 👨‍💻 Developer
 - **Name**: ROBIN ABU IBRAHIM
 - **Telegram**: [xFFBI](https://t.me/xFFBI)
-- **GitHub**: [ROBIN-SENPAI](https://github.com/ROBIN-SENPAI)
 
 ---
 *Disclaimer: This tool is strictly for educational purposes and authorized security assessments. Unauthorized use against systems without prior consent is illegal.*
