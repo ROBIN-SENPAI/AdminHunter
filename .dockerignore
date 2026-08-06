@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.git/
+tests/
+docs/
+output/
+*.png
+*.md
+scan_*.json
+scan_*.txt
+scan_*.html
+.dockerignore

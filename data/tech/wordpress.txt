@@ -1,0 +1,27 @@
+# WordPress-specific paths (loaded when WordPress is detected)
+wp-login.php
+wp-admin/
+wp-admin/install.php
+wp-admin/setup-config.php
+wp-config.php
+wp-config.php.bak
+wp-config.php.txt
+wp-config.old
+wp-content/
+wp-content/debug.log
+wp-content/uploads/
+wp-content/plugins/
+wp-content/themes/
+wp-includes/
+wp-includes/version.php
+wp-json/
+wp-json/wp/v2/users
+wp-json/wp/v2/posts
+xmlrpc.php
+wp-cron.php
+wp-settings.php
+readme.html
+license.txt
+sitemap.xml
+wp-trackback.php
+feed/

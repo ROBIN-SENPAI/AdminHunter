@@ -1,0 +1,14 @@
+# Django-specific paths (loaded when Django is detected)
+admin/
+admin/login/
+admin/password_reset/
+accounts/login/
+accounts/logout/
+api/
+static/admin/
+__debug__/
+__debug__/sql/
+env.py
+settings.py
+manage.py
+csrf

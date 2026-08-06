@@ -1,0 +1,19 @@
+# Drupal-specific paths (loaded when Drupal is detected)
+user/login
+user/register
+admin/config
+admin/content
+admin/structure
+core/CHANGELOG.txt
+CHANGELOG.txt
+README.txt
+web.config
+sites/default/settings.php
+sites/default/files/
+sites/all/modules/
+core/install.php
+INSTALL.txt
+MAINTAINERS.txt
+cron.php
+update.php
+xmlrpc.php

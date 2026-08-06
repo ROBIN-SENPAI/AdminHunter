@@ -1,0 +1,7 @@
+services:
+  adminhunter:
+    build: .
+    image: adminhunter:5.0
+    command: -t ${TARGET:?Set TARGET env var} -o /out/scan --no-stop
+    volumes:
+      - ./output:/out

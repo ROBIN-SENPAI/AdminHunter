@@ -1,0 +1,17 @@
+# Joomla-specific paths (loaded when Joomla is detected)
+administrator/
+administrator/index.php
+administrator/manifests/files/joomla.xml
+configuration.php
+configuration.php.bak
+configuration.php.old
+htaccess.txt
+robots.txt.dist
+README.txt
+LICENSE.txt
+administrator/logs/error.php
+administrator/logs/joomla.log
+components/
+modules/
+media/
+templates/

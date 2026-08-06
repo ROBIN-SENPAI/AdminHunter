@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Scan output files
+scan_*.json
+scan_*.txt
+scan_*.html
+output/
+
+# Environment & secrets
+.env
+*.env
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

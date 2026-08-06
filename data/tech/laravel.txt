@@ -1,0 +1,25 @@
+# Laravel-specific paths (loaded when Laravel is detected)
+.env
+.env.example
+.env.backup
+.env.old
+storage/logs/laravel.log
+storage/framework/sessions/
+storage/framework/cache/data/
+storage/framework/views/
+public/index.php
+public/storage/
+artisan
+server.php
+_ignition/health-check
+_ignition/execute-solution
+horizon
+telescope
+vendor/composer/installed.json
+composer.json
+package.json
+api/user
+login
+register
+password/reset
+admin

@@ -1,0 +1,19 @@
+# ASP.NET-specific paths (loaded when ASP.NET is detected)
+web.config
+web.config.bak
+global.asax
+default.aspx
+login.aspx
+admin/login.aspx
+admin/default.aspx
+api/
+swagger/
+swagger/index.html
+Elmah.axd
+Trace.axd
+WebResource.axd
+Content/
+Scripts/
+App_Data/
+App_Code/
+iisstart.htm
