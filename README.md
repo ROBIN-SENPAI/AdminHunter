@@ -6,6 +6,13 @@
 <h3 align="center">The Ultimate Sensitive Information Gathering Framework</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/github/actions/workflow/status/ROBIN-SENPAI/AdminHunter/ci.yml?branch=main&label=CI&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/ROBIN-SENPAI/AdminHunter?style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/code-size/ROBIN-SENPAI/AdminHunter?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/ROBIN-SENPAI/AdminHunter?style=for-the-badge">
+</p>
+
+<p align="center">
   <b>Version:</b> 5.0 Elite Pro &nbsp;|&nbsp; <b>Developer:</b> ROBIN ABU IBRAHIM &nbsp;|&nbsp; <b>Telegram:</b> @xFFBI
 </p>
 
